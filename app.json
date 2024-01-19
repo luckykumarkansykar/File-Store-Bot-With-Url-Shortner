@@ -53,7 +53,7 @@
         }
     ],
     "formation": {
-        worker: python3 bot.py
+        
         "worker": { 
             "quantity": 1,
             "size": "free"
