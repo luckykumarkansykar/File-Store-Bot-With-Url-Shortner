@@ -3,8 +3,8 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "23841623"))
   API_HASH = os.environ.get("API_HASH", "012836957a8d2015f951c2c1591be159")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6368344107:AAFPVx7-Thl2tj1zA5mp81lK9SSVgOmewOM")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "LK_Files_bot")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6321659322:AAHtfTNXkLAxggXK6B6Owphw610xxjjbARs")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "Lk_file_sharebot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002122577537"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "")
